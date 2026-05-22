@@ -22,7 +22,7 @@ I’m an Economics graduate with a strong interest in quantitative modelling and
 - Implemented game logic using Python, including loops, conditionals and JSON handling  
 - Designed to simulate real Blackjack rules and track outcomes across sessions  
 
-👉 [View Project](https://github.com/YOUR-USERNAME/YOUR-REPO)
+👉 [View Project](https://github.com/angelarest/blackjack-game.git?)]
 
 ---
 &nbsp;
