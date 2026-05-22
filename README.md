@@ -13,7 +13,7 @@ I’m an Economics graduate with a strong interest in quantitative modelling and
 - Created a prediction feature using a price elasticity model (ε = -0.5) to estimate the impact of price changes on average demand and revenue  
 - Built a console application to handle user input and interact with the API  
 
-👉 [View Project](https://github.com/YOUR-USERNAME/YOUR-REPO)
+👉 [View Project](https://github.com/angelarest/Capital_Ice_Cream_Project.git)
 
 --- 
 
