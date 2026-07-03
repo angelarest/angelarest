@@ -43,4 +43,4 @@ I’m an Economics graduate with a strong interest in quantitative modelling and
 ---
 &nbsp;
 # 📫 Connect With Me  
-- Email: angelao2@outlook.com
+
